@@ -1,8 +1,9 @@
-# ✨React-covid-data✨
+# 🦠React-covid-data
 
 <h3>Description :</h3> 
-This website fetches covid data of Indian states from an api and displays the data in a tabular form.
-Link of the api website: (https://data.covid19india.org/)
+This website fetches covid data of Indian states from an api and displays the data in a tabular form.<br/>
+Link of the api website: [](https://data.covid19india.org)
+<br/>
 The project is live at [Click Me](https://covid-data-react.netlify.app/)👈
 
 ### 📃Features :
