@@ -8,15 +8,6 @@ This website fetches covid data of Indian states from an api and displays the da
 
 [Click here](https://covid-data-react.netlify.app/) 👈 to access the web application
 
-### 📃Features :
-
-<ul>
-<li>Convert your text to uppercase</li>
-<li>Convert your text to lowercase</li>
-<li>Remove extra spaces from your text</li>
-<li>Set different background color themes to your website</li>
-</ul>
-
 ### Tools and technologies used :
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
