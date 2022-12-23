@@ -2,9 +2,11 @@
 
 <h3>Description :</h3> 
 This website fetches covid data of Indian states from an api and displays the data in a tabular form.<br/>
-Link of the api website: <a href="https://data.covid19india.org" target="_blank"></a>
+
+[Link of the api website](https://data.covid19india.org)
 <br/>
-The project is live at <a href="https://covid-data-react.netlify.app/" target="_blank">👈</a>
+
+[Click here](https://covid-data-react.netlify.app/) 👈 to access the web application
 
 ### 📃Features :
 
